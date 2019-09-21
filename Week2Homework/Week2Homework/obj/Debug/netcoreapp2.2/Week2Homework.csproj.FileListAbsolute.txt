@@ -1,0 +1,11 @@
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/bin/Debug/netcoreapp2.2/Week2Homework.deps.json
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/bin/Debug/netcoreapp2.2/Week2Homework.runtimeconfig.json
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/bin/Debug/netcoreapp2.2/Week2Homework.runtimeconfig.dev.json
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/bin/Debug/netcoreapp2.2/Week2Homework.dll
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/bin/Debug/netcoreapp2.2/Week2Homework.pdb
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/obj/Debug/netcoreapp2.2/Week2Homework.csprojAssemblyReference.cache
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/obj/Debug/netcoreapp2.2/Week2Homework.csproj.CoreCompileInputs.cache
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/obj/Debug/netcoreapp2.2/Week2Homework.AssemblyInfoInputs.cache
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/obj/Debug/netcoreapp2.2/Week2Homework.AssemblyInfo.cs
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/obj/Debug/netcoreapp2.2/Week2Homework.dll
+/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/obj/Debug/netcoreapp2.2/Week2Homework.pdb

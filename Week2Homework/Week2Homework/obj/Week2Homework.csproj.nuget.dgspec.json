@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/Week2Homework.csproj": {}
+  },
+  "projects": {
+    "/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/Week2Homework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/Week2Homework.csproj",
+        "projectName": "Week2Homework",
+        "projectPath": "/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/Week2Homework.csproj",
+        "packagesPath": "/Users/samk/.nuget/packages/",
+        "outputPath": "/Users/samk/Desktop/VisualStudioConsoleApps/Week2Homework/Week2Homework/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/samk/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
