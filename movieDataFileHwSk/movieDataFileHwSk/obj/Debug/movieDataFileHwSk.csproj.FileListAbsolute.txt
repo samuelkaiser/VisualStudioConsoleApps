@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\bin\Debug\NLog.config
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\bin\Debug\movieDataFileHwSk.exe.config
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\bin\Debug\movieDataFileHwSk.exe
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\bin\Debug\movieDataFileHwSk.pdb
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\bin\Debug\NLog.dll
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\bin\Debug\NLog.xml
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\obj\Debug\movieDataFileHwSk.csprojAssemblyReference.cache
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\obj\Debug\movieDataFileHwSk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\obj\Debug\movieDataFileHwSk.csproj.CopyComplete
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\obj\Debug\movieDataFileHwSk.exe
+C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\obj\Debug\movieDataFileHwSk.pdb

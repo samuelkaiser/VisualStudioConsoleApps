@@ -1,0 +1,7 @@
+2019-09-23 01:21:50.8746 INFO Hello World
+2019-09-23 01:22:08.9203 INFO Data successfully parsed and outputted to console.
+2019-09-23 01:22:21.0030 INFO System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at movieDataFileHwSk.Program.Main(String[] args) in C:\Users\User\Desktop\.Net DB Homework\playground\movieDataFileHwSk\movieDataFileHwSk\Program.cs:line 166
